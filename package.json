@@ -1,0 +1,38 @@
+{
+  "name": "web3-essentials",
+  "displayName": "Web3 Essentials",
+  "description": "Everything You Need To Get Started In Web3 And The Blockchain",
+  "publisher": "ODYSSE3US",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "Gruntfuggly.todo-tree",
+    "aaron-bond.better-comments",
+    "alefragnani.Bookmarks",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "mohd-akram.vscode-html-format",
+    "euskadi31.json-pretty-printer",
+    "ritwickdey.LiveServer",
+    "ms-vsliveshare.vsliveshare",
+    "bierner.markdown-preview-github-styles",
+    "christian-kohler.path-intellisense",
+    "bengreenier.vscode-node-readme",
+    "NomicFoundation.hardhat-solidity",
+    "tintinweb.vscode-solidity-flattener",
+    "tintinweb.vscode-solidity-language",
+    "shardulm94.trailing-spaces",
+    "mitchdenny.ecdc",
+    "tintinweb.vscode-ethover",
+    "chowchikwan.ethereum-price",
+    "RemixProject.ethereum-remix",
+    "wix.vscode-import-cost",
+    "patriciobcs.solana-snippets"
+
+  ]
+}
